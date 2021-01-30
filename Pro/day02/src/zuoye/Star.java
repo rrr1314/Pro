@@ -1,4 +1,4 @@
-package com.cvs.zuoye;
+package zuoye;
 
 /**
  * (接口定义)
@@ -8,5 +8,5 @@ package com.cvs.zuoye;
  */
 public abstract interface Star {
 
-    public abstract void paixi();
+    public abstract Star paixi();
 }

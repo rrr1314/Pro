@@ -1,4 +1,4 @@
-package com.cvs.zuoye;
+package zuoye;
 
 /**
  * @author 夏天
