@@ -8,5 +8,5 @@ package zuoye;
  */
 public abstract interface Star {
 
-    public abstract Star paixi();
+    Star paixi();
 }
